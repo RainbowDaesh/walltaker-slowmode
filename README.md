@@ -1,5 +1,6 @@
 # Slowmode for Walltaker
 Modifies your Walltaker link so your walltaker cannot be changed for one minute.
+![]()
 
 ---
 ## Installation
@@ -11,5 +12,5 @@ Modifies your Walltaker link so your walltaker cannot be changed for one minute.
 3. Save
 
 ---
-## Screenshots
-
+## License
+This project is licensed under the GNU GPL v3. See [LICENSE](LICENSE) for details.
