@@ -1,6 +1,6 @@
 # Slowmode for Walltaker
 ### Modifies your Walltaker link to have a one minute cooldown between changes.
-The link owner is unaffected.
+The link owner still has full permissions.
 
 ![Warning Dialog](screenshots/SlowmodeAction.png)
 
