@@ -1,5 +1,5 @@
 # Slowmode for Walltaker
-### Modifies your Walltaker link so your walltaker cannot be changed for one minute.
+### Modifies your Walltaker link so your walltaker cannot be changed for one minute after it has last been set.
 
 ![Warning Dialog](screenshots/SlowmodeAction.png)
 
