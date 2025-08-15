@@ -21,7 +21,7 @@ The link owner still has full permissions.
 
 ![Step 3](screenshots/WT3.png)
 
-It can take about a minute for the css import to work its magic. You can import the contents of `wtslow.html` instead to instantly make changes to your link. It'll just be very cluttered, so importing is preferred. Try hard refreshing your browser (`CTRL+F5` or `CMD+SHIFT+R`).
+If you don't notice changes right away, it could be because of an issue with caching/cookies. Perhaps you can hard refresh your page (`CTRL+F5` or `CMD+SHIFT+R`) or clear your cookies and cache for `joi.how`. You can clear them in your browser's setting tab. Alternatively, you can import the contents of `wtslow.html` instead to instantly make changes to your link, but it may be a bit cluttered in your link description. It also does not automatically update.
 
 ---
 ## License
