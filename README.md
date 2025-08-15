@@ -10,9 +10,9 @@ The link owner still has full permissions.
 
 ![Step 1](screenshots/WT1.png)
 
-2. Paste the contents of `wtslo.html` (or the html below) somewhere into your description
+2. Paste the contents of the html below somewhere into your description
 ```html
-<style>.tabs .modal__buttons .secondary{display:none}.tabs .modal h4,.tabs .modal p{visibility:hidden;position:relative}.tabs .modal h4::before,.tabs .modal p::before{content:"Whoa, easy, tiger! 🐯";visibility:visible;position:absolute}.tabs .modal p::before{content:"This wallpaper was just changed less than a minute ago. The owner of the link has set it so wallpapers cannot be changed so soon."}.client-configs__wrapper~.tabs .modal .secondary{display:block}</style>
+<style>@import url("https://rainbowdaesh.github.io/walltaker-slowmode/wtslo.css")</style>
 ```
 
 ![Step 2](screenshots/WT2.png)
@@ -20,6 +20,8 @@ The link owner still has full permissions.
 3. Save
 
 ![Step 3](screenshots/WT3.png)
+
+It can take about a minute for the css import to work its magic. You can import the contents of `wtslow.html` instead to instantly make changes to your link. It'll just be very cluttered, so importing is preferred.
 
 ---
 ## License
