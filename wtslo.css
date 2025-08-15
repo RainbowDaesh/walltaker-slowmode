@@ -1,4 +1,4 @@
-.tabs .modal__buttons .secondary {
+main:not(:has(.client-configs__wrapper)) .tabs .modal .secondary {
   display: none;
 }
 
@@ -9,7 +9,8 @@
 }
 
 .tabs .modal h4::before,
-.tabs .modal p::before {
+.tabs .modal p::before,
+.tabs .modal p::after {
   content: "Whoa, easy, tiger! 🐯";
   visibility: visible;
   position: absolute;
@@ -19,6 +20,9 @@
   content: "This wallpaper was just changed less than a minute ago. The owner of the link has set it so wallpapers cannot be changed so soon.";
 }
 
-.client-configs__wrapper ~ .tabs .modal .secondary {
-  display: block;
+.tabs .modal p::after {
+  content: "Slowmode for Walltaker by RainbowDaesh (/users/RainbowDaesh)";
+  bottom: -2.5rem;
+  right: 0;
+  font-size: 0.5rem;
 }
