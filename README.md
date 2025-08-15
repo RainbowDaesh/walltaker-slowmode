@@ -15,7 +15,7 @@ The link owner still has full permissions.
 <style>@import url("https://rainbowdaesh.github.io/walltaker-slowmode/wtslo.css");</style>
 ```
 
-![Step 2](screenshots/WT2.png)
+![Step 2](screenshots/WT2_1.png)
 
 3. Save
 
