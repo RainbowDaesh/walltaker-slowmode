@@ -12,7 +12,7 @@ The link owner still has full permissions.
 
 2. Paste the contents of the html below somewhere into your description
 ```html
-<style>@import url("https://rainbowdaesh.github.io/walltaker-slowmode/wtslo.css")</style>
+<style>@import url("https://rainbowdaesh.github.io/walltaker-slowmode/wtslo.css");</style>
 ```
 
 ![Step 2](screenshots/WT2.png)
