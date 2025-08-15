@@ -21,7 +21,7 @@ The link owner still has full permissions.
 
 ![Step 3](screenshots/WT3.png)
 
-It can take about a minute for the css import to work its magic. You can import the contents of `wtslow.html` instead to instantly make changes to your link. It'll just be very cluttered, so importing is preferred.
+It can take about a minute for the css import to work its magic. You can import the contents of `wtslow.html` instead to instantly make changes to your link. It'll just be very cluttered, so importing is preferred. Try hard refreshing your browser (`CTRL+F5` or `CMD+SHIFT+R`).
 
 ---
 ## License
